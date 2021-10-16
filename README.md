@@ -4,7 +4,7 @@ Este é um projeto simples de um restaurante utilizando uma arquitetura de micro
 
 ![dio-restaurant](https://user-images.githubusercontent.com/34447259/91900931-d2c9f100-ec75-11ea-8d6e-c75f66961b8a.jpg)
 
-Os microsserviços são:
+**Os microsserviços são:**
 
 - [Garçom](https://github.com/felipe-tomino/dio-waiter)
 - [Cozinha (Para o cozinheiro e barman)](https://github.com/felipe-tomino/dio-kitchen)
